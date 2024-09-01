@@ -77,7 +77,7 @@
 <img src="https://github.com/user-attachments/assets/2501e1d6-4c36-47b8-be4f-fb0ec6cd4e20" width="150" height="150"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/3a9ceafd-fe1e-4d26-9f11-253b06a603a0" width="150" height="150"/>
 <br>
-<p>A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </p>
+<p>A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility for training. </p>
 <img src="https://github.com/user-attachments/assets/9c16d25c-5eb8-49cc-9efc-53ccdf566d01" width="150" height="150"/>
 </div>
 
@@ -86,6 +86,6 @@
 <img src="https://github.com/user-attachments/assets/d7bc86c1-6d9b-4a2d-89a5-a52cb2f4315f" width="150" height="150"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/4cca1215-395a-490e-8d0b-e0abed082fad" width="150" height="150"/>
 <br>
-<p> A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </p>
+<p> A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility for training. </p>
 <img src="https://github.com/user-attachments/assets/6999408e-eaa4-4a63-b1c3-b26d654846e7" width="150" height="150"/>
 </div>
