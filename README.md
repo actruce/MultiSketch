@@ -73,20 +73,19 @@
 
 ## 3. Failure Cases
 <div>
-<p><strong>1. "A soccer player kicks a soccer ball as hard as he can to take a shot. The ball moves forward, and the kicking foot moves from back to front."</strong></p>
+<p>1. "A soccer player kicks a soccer ball as hard as he can to take a shot. The ball moves forward, and the kicking foot moves from back to front."</p>
 <img src="https://github.com/user-attachments/assets/2501e1d6-4c36-47b8-be4f-fb0ec6cd4e20" width="150" height="150"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/3a9ceafd-fe1e-4d26-9f11-253b06a603a0" width="150" height="150"/>
 <br>
-<p><strong> A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </strong></p>
-<a href=""></a>
+<p>A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </p>
+<video src="https://github.com/user-attachments/assets/37aeff65-d4e4-40a4-add8-98c0db826fb3" width="150" autoplay controls />
 </div>
 
-
 <div>
-<p><strong>2. "On a horizontal stretch of road, two cars are driving toward each other in their respective lanes."</strong></p>
+<p>2. "On a horizontal stretch of road, two cars are driving toward each other in their respective lanes."</p>
 <img src="https://github.com/user-attachments/assets/d7bc86c1-6d9b-4a2d-89a5-a52cb2f4315f" width="150" height="150"/>&nbsp;
 <img src="https://github.com/user-attachments/assets/4cca1215-395a-490e-8d0b-e0abed082fad" width="150" height="150"/>
 <br>
-<p><strong> A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </strong></p>
-<a href=""></a>
+<p> A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </p>
+<video src="https://github.com/user-attachments/assets/581a357b-e328-491d-9b58-d89743115d68" width="150" autoplay controls />
 </div>
