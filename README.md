@@ -70,3 +70,23 @@
 <figure><img src="https://github.com/user-attachments/assets/8cffdce6-8288-4be4-988c-1732af683ee8" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
 <figure><img src="https://github.com/user-attachments/assets/5164b1ba-5a5d-461d-a34a-55b471270cfc" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
 </div>
+
+## 3. Failure Cases
+<div>
+<p><strong>1. "A soccer player kicks a soccer ball as hard as he can to take a shot. The ball moves forward, and the kicking foot moves from back to front."</strong></p>
+<img src="https://github.com/user-attachments/assets/1c8dc70d-09b6-46c2-8789-0fca7d3f002e" width="200" height="200"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/3a9ceafd-fe1e-4d26-9f11-253b06a603a0" width="200" height="200"/>
+<br>
+<p><strong> A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </strong></p>
+<a href=""></a>
+</div>
+
+
+<div>
+<p><strong>2. "On a horizontal stretch of road, two cars are driving toward each other in their respective lanes."</strong></p>
+<img src="https://github.com/user-attachments/assets/ebb7ec8c-d7a1-4a14-ac8f-7695ca5599fc" width="200" height="200"/>&nbsp;
+<img src="https://github.com/user-attachments/assets/4cca1215-395a-490e-8d0b-e0abed082fad" width="200" height="200"/>
+<br>
+<p><strong> A sample video generated from pre-trained text-to-video diffusion model (<a href="https://arxiv.org/abs/2308.06571">Model Scope</a>) shows lack of fisibility about training. </strong></p>
+<a href=""></a>
+</div>
