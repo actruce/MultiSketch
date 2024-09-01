@@ -52,21 +52,21 @@
 
 <div>
 <p><strong>2. "A butterfly flies to a rose, flaps its wings and flits around, but the rose stays still."</strong></p>
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/c1e4d08d-956f-4784-a811-7c860a544b50" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
+<figure><img src="https://github.com/user-attachments/assets/60a1f1c8-376c-49b8-9b50-5fe3b1f3460e" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
+<figure><img src="https://github.com/user-attachments/assets/9b557ad0-6920-421f-9ced-b19275ac87d8" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
 </div>
 
 <div>
 <p><strong>3. "The two dancers are passionately dancing the Cha-Cha, their bodies moving in sync with the infectious Latin rhythm."</strong></p>
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/441e4fd8-3b77-4b82-b59a-b4c6c8fb7aba" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
+<figure><img src="https://github.com/user-attachments/assets/2a844ceb-e1e9-4969-81b9-eeac0a6e2994" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
+<figure><img src="https://github.com/user-attachments/assets/5ea94680-f736-4c77-8c3b-2933d1be1260" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
 </div>
 
 <div>
 <p><strong>4. "Two penguines are shuffling along the ice terrain, taking deliberate and cautious step with its flippers outstretched to maintain balance."</strong></p>
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
-<figure><img src="" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
+<figure><img src="https://github.com/user-attachments/assets/09be971f-d479-4b54-9019-1997240206ec" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
+<figure><img src="https://github.com/user-attachments/assets/8cffdce6-8288-4be4-988c-1732af683ee8" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
+<figure><img src="https://github.com/user-attachments/assets/5164b1ba-5a5d-461d-a34a-55b471270cfc" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
 </div>
