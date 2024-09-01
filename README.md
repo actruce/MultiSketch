@@ -38,9 +38,9 @@
 </div>
 
 ## 2. Comparisons between methods
-<p><strong>(a) baseline, Gal et al., Breathing Life Into Sketches Using Text-to-Video Priors, arXiv 2311.13608</strong></p>
-<p><strong>(b) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined </strong></p>
-<p><strong>(c) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined but without global path </strong></p>
+<p>(a) baseline, Gal et al., Breathing Life Into Sketches Using Text-to-Video Priors, arXiv 2311.13608</p>
+<p>(b) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined </p>
+<p>(c) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined but without global path </p>
 <br><br>
 
 <div>
