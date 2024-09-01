@@ -41,11 +41,32 @@
 <p><strong>(a) baseline, Gal et al., Breathing Life Into Sketches Using Text-to-Video Priors, arXiv 2311.13608</strong></p>
 <p><strong>(b) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined </strong></p>
 <p><strong>(c) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined but without global path </strong></p>
-
+<br><br>
 
 <div>
 <p><strong>1. "A basketball player dribbles the ball down low. The ball is bound from top to bottom and bottom to top."</strong></p>
 <figure><img src="https://github.com/user-attachments/assets/61ac9f7d-825b-4cea-a8e7-99a23dfefa38" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
 <figure><img src="https://github.com/user-attachments/assets/8851d435-d4f9-4ba9-b26d-e22437dbcb4e" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
 <figure><img src="https://github.com/user-attachments/assets/9cc9e065-974c-4ae0-b19d-68fb993417df" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
+</div>
+
+<div>
+<p><strong>2. "A butterfly flies to a rose, flaps its wings and flits around, but the rose stays still."</strong></p>
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
+</div>
+
+<div>
+<p><strong>3. "The two dancers are passionately dancing the Cha-Cha, their bodies moving in sync with the infectious Latin rhythm."</strong></p>
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
+</div>
+
+<div>
+<p><strong>4. "Two penguines are shuffling along the ice terrain, taking deliberate and cautious step with its flippers outstretched to maintain balance."</strong></p>
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(a)</figcaption></figure>&nbsp;
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(b)</figcaption></figure>&nbsp;
+<figure><img src="" width="200" height="200" border="1"/><figcaption>(c)</figcaption></figure>
 </div>
