@@ -1,4 +1,4 @@
-# MultiSketch
+# Supplementary Materials
 
 ## 1. GIF animations from various sketches
 <div>
