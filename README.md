@@ -1,6 +1,6 @@
 # MultiSketch
 
-## GIF animations from various sketches
+## 1. GIF animations from various sketches
 <div>
 <p><strong>1. "A basketball player dribbles the ball down low. The ball is bound from top to bottom and bottom to top."</strong></p>
 <img src="https://github.com/user-attachments/assets/c4e85ef7-48f0-4509-a362-e073e258ada9" width="600" height="150"/>
@@ -36,3 +36,8 @@
 <br>
 <img src="https://github.com/user-attachments/assets/32db58e0-2ef4-4c31-b76f-db66ace02a04" width="250" height="250"/>
 </div>
+
+## 2. Comparisons between methods
+<p><strong>(a) baseline, Gal et al., Breathing Life Into Sketches Using Text-to-Video Priors, arXiv 2311.13608</strong></p>
+<p><strong>(b) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined </strong></p>
+<p><strong>(c) Object Separation and three iterative training with SDS loss; object#1 -> object#2 -> combined but without global path </strong></p>
